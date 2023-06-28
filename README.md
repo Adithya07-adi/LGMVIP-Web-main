@@ -7,4 +7,4 @@
 💁‍ <b>Calculator App</b><br>
 
 
-![image](https://user-images.githubusercontent.com/71166016/178068066-02a57c04-7beb-44e2-a064-4bed0274e497.png)
+
